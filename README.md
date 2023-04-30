@@ -16,11 +16,10 @@ sudo snap connect arduino-cli: <plug id>
 ```
 4. Build project:
 ```bash
-arduino-cli compile -b arduino:avr:uno /home/user/Arduino/MySketch
+arduino-cli compile -b arduino:avr:uno .
 ```
 5. Load project:
 ```bash
 arduino-cli upload . -p COM<id>
 ```
 6. Boot Arduino UNO
-7. 
