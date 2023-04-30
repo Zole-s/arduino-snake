@@ -2,14 +2,14 @@
 
 # Board Assembly
 
-Connect a button to pin 2.
-
-
+* Connect a button to pin 2.
+* lcd(13, 12, 11, 10, 9, 8) - LCD Pins.
 
 # Program Part
 
 * Requirements
-- LiquidCrystal.h
+
+1. LiquidCrystal.h
 
 * Build
 
