@@ -1,5 +1,7 @@
 # Snake on Arduino UNO
 
+A simple snake on Arduino UNO with One-button control made on LCD Display base
+
 # Board Assembly
 
 * Connect a button to pin 2.
