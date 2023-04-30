@@ -1,4 +1,12 @@
-# arduino-snake
+# Snake on Arduino UNO
+
+# Board Assembly
+
+Connect a button to pin 2.
+
+
+
+# Program Part
 
 * Requirements
 - LiquidCrystal.h
