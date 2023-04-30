@@ -1,5 +1,8 @@
 # arduino-snake
 
+* Requirements
+- LiquidCrystal.h
+
 * Build
 
 1. Clone the repository:
